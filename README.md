@@ -17,7 +17,7 @@ Beyond the Anaconda distribution of Python, the following packages need to be in
   nltk.wordnet
   nltk.stopwords
 ## Datasets Introduction
-The datasets for this project is provided by Udacity's partners at Figure Eight. There are two files, disaster messages and disaster categories
+The datasets for this project is provided by Udacity's partners at Figure Eight. There are two files, disaster messages and disaster categories.
 ## File Description
 ### Readme
 This file provides high level overview of the work done in project.
